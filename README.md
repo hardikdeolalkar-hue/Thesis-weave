@@ -58,4 +58,4 @@ npm install
 npm run dev
 \`\`\`
 
-Open [http://localhost:5173](http://localhost:5173) in your browser.
+Open https://zp1v56uxy8rdx5ypatb0ockcb9tr6a-oci3-wsv2lped--5173--d5306e6f.local-credentialless.webcontainer-api.io/in your browser.
