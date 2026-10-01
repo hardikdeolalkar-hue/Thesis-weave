@@ -58,4 +58,4 @@ npm install
 npm run dev
 \`\`\`
 
-Open https://zp1v56uxy8rdx5ypatb0ockcb9tr6a-oci3-wsv2lped--5173--d5306e6f.local-credentialless.webcontainer-api.io/in your browser.
+Open https://stackblitz.com/~/github.com/hardikdeolalkar-hue/Thesis-weave in your browser.
